@@ -1,0 +1,13 @@
+pymongo>=3.0.3
+pandas>=0.14.1
+xlrd>=0.8
+beautifulsoup4>=4.4.0
+lxml>=3.4.0
+requests-cache
+werkzeug
+redis
+python-dateutil
+arrow
+gevent>=1.1b4
+python-decouple
+psutil
